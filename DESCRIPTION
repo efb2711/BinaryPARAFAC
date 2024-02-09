@@ -1,0 +1,14 @@
+Package: BinaryPARAFAC
+Type: Package
+Title: Binary PARAFAC
+Version: 0.1.0
+Depends: R (>= 3.5.0), ThreeWay,rTensor,MultBiplotR
+Author: Elisa Frutos Bernal
+Maintainer: Elisa Frutos Bernal <efb@usal.es>
+Description: Decomposes a binary three-way array into three component matrices and calculates measures of adjustment of the decomposition. 
+License: GPL (>= 2)
+RoxygenNote: 7.3.1
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2024-02-08 18:12:13 UTC; Elisa Frutos
